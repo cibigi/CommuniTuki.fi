@@ -13,7 +13,7 @@ We’re moving our lives on the internet. Smart-working, online lessons, enterta
 My project’s purpose is creating an hub for internet experiences, useful services and Covid-19 data.
 
 Logo and visual identity
-The logo is a revisitation of Finland’s national flag. The borders become tridimensional, they look like home… a safe place. The cross evolves in a fluid figure simulating the warmth, the comfort and the of the domestic environment
+The logo is a revisitation of Finland’s national flag. The borders become tridimensional, they look like home… a safe place. The cross evolves in a fluid figure simulating the comfort and the warmth of the domestic environment.
 
 CommuniTuki.fi uses Finland Toolbox design guidelines.
 
